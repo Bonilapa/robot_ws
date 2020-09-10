@@ -1,0 +1,2 @@
+cart_robot
+-DCATKIN_DEVEL_PREFIX=/home/bonilapa/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bonilapa/robot_ws/install -G Unix Makefiles

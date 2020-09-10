@@ -1,0 +1,8 @@
+prefix=/home/bonilapa/robot_ws/devel
+
+Name: cart_robot
+Description: Description of cart_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
